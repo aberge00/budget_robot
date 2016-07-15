@@ -45,7 +45,7 @@ public class ManualControl extends OpMode {
     private DcMotor motorRight;
     private DcMotor motorLeft;
 
-    double[] scaleDriveArray = {0.0, 0.06, 0.09, 0.10, 0.22, 0.25, 0.31, 0.34,
+    double[] scaleDriveArray = {0.0, 0.07, 0.09, 0.10, 0.22, 0.25, 0.31, 0.34,
             0.40, 0.45, 0.50, 0.50, 0.55, 0.60, 0.80, 0.90, 1.00};
     private int loopCounter = 0;
 
